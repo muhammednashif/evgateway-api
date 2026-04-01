@@ -1,6 +1,6 @@
 {
   "payment": false,
-  "charging": true,
-  "site": true,
+  "charging": false,
+  "site": false,
   "update": true
 }
