@@ -1,0 +1,6 @@
+{
+  "payment": true,
+  "charging": true,
+  "site": true,
+  "update": true
+}
